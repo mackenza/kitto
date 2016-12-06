@@ -25,6 +25,8 @@ defmodule Mix.Tasks.Kitto.New do
     {:text, "new/widgets/clock/clock.scss",            "widgets/clock/clock.scss"},
     {:text, "new/widgets/graph/graph.js",              "widgets/graph/graph.js"},
     {:text, "new/widgets/graph/graph.scss",            "widgets/graph/graph.scss"},
+    {:text, "new/widgets/image/image.js",              "widgets/image/image.js"},
+    {:text, "new/widgets/image/image.scss",            "widgets/image/image.scss"},
     {:text, "new/widgets/list/list.js",                "widgets/list/list.js"},
     {:text, "new/widgets/list/list.scss",              "widgets/list/list.scss"},
     {:text, "new/widgets/number/number.js",            "widgets/number/number.js"},
